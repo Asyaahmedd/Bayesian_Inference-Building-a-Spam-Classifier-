@@ -1,0 +1,2 @@
+# Bayesian_Inference-Building-a-Spam-Classifier-
+Spam detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Junk Mail'.  In this Project we will be using the Naïve Bayes algorithm to create a model that can classify dataset SMS messages as spam or not spam, based on the training we give to the model. 
